@@ -1,0 +1,882 @@
+Bot started running. 03/17/2022, 11:48:40
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:48:41
+FMA = 4.7626 SMA = 4.759230769230769
+No signal. Current price = 4.762
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:49:41
+FMA = 4.7626 SMA = 4.759538461538461
+No signal. Current price = 4.762
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:50:41
+FMA = 4.7608 SMA = 4.7596923076923074
+No signal. Current price = 4.753
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:51:42
+FMA = 4.758 SMA = 4.7599230769230765
+No signal. Current price = 4.753
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:52:42
+FMA = 4.7534 SMA = 4.758153846153846
+No signal. Current price = 4.745
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:53:42
+FMA = 4.747 SMA = 4.755846153846154
+No signal. Current price = 4.73
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:54:43
+FMA = 4.7442 SMA = 4.7553846153846155
+No signal. Current price = 4.744
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:55:43
+FMA = 4.740600000000001 SMA = 4.7533076923076925
+No signal. Current price = 4.739
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:56:44
+FMA = 4.7376000000000005 SMA = 4.750846153846154
+No signal. Current price = 4.734
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:57:44
+FMA = 4.737399999999999 SMA = 4.749461538461539
+No signal. Current price = 4.747
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:58:44
+FMA = 4.7372 SMA = 4.747230769230769
+No signal. Current price = 4.74
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 11:59:44
+FMA = 4.7372 SMA = 4.745153846153847
+No signal. Current price = 4.74
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:00:45
+FMA = 4.738200000000001 SMA = 4.743615384615385
+No signal. Current price = 4.74
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:01:45
+FMA = 4.74 SMA = 4.741923076923078
+No signal. Current price = 4.74
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:02:45
+FMA = 4.7364 SMA = 4.738846153846154
+No signal. Current price = 4.722
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:03:46
+FMA = 4.737 SMA = 4.738076923076923
+No signal. Current price = 4.731
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:04:46
+FMA = 4.735200000000001 SMA = 4.737
+No signal. Current price = 4.731
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:05:46
+FMA = 4.736400000000001 SMA = 4.737076923076923
+No signal. Current price = 4.744
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:06:47
+FMA = 4.7344 SMA = 4.736769230769231
+No signal. Current price = 4.737
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:07:47
+FMA = 4.734999999999999 SMA = 4.736538461538462
+No signal. Current price = 4.737
+Cash = 1000.0 Crypto = 0.0
+
+03/17/2022, 12:08:48
+FMA = 4.7378 SMA = 4.737307692307692
+Bought for a price of 4.745
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:09:48
+FMA = 4.7402 SMA = 4.738384615384616
+No signal. Current price = 4.745
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:10:49
+FMA = 4.7398 SMA = 4.738
+No signal. Current price = 4.74
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:11:49
+FMA = 4.7404 SMA = 4.738
+No signal. Current price = 4.74
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:12:50
+FMA = 4.7410000000000005 SMA = 4.738
+No signal. Current price = 4.74
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:13:50
+FMA = 4.7408 SMA = 4.738307692307692
+No signal. Current price = 4.744
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:14:50
+FMA = 4.7416 SMA = 4.738615384615384
+No signal. Current price = 4.744
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:15:51
+FMA = 4.742399999999999 SMA = 4.7393846153846155
+No signal. Current price = 4.744
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:16:51
+FMA = 4.7432 SMA = 4.740384615384615
+No signal. Current price = 4.744
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:17:51
+FMA = 4.744 SMA = 4.74123076923077
+No signal. Current price = 4.744
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:18:52
+FMA = 4.7424 SMA = 4.741153846153846
+No signal. Current price = 4.736
+Cash = 0 Crypto = 210.7481559536354
+
+03/17/2022, 12:19:52
+FMA = 4.739599999999999 SMA = 4.740615384615385
+Sold for a price of 4.73
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:20:52
+FMA = 4.7362 SMA = 4.739846153846154
+No signal. Current price = 4.727
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:21:53
+FMA = 4.731599999999999 SMA = 4.738
+No signal. Current price = 4.721
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:22:53
+FMA = 4.727 SMA = 4.736538461538462
+No signal. Current price = 4.721
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:23:53
+FMA = 4.725 SMA = 4.735461538461538
+No signal. Current price = 4.726
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:24:54
+FMA = 4.725 SMA = 4.734692307692308
+No signal. Current price = 4.73
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:25:54
+FMA = 4.725600000000001 SMA = 4.733923076923078
+No signal. Current price = 4.73
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:26:55
+FMA = 4.7278 SMA = 4.7330000000000005
+No signal. Current price = 4.732
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:27:55
+FMA = 4.7299999999999995 SMA = 4.7320769230769235
+No signal. Current price = 4.732
+Cash = 996.8387776606955 Crypto = 0
+
+03/17/2022, 12:28:55
+FMA = 4.735200000000001 SMA = 4.732692307692308
+Bought for a price of 4.752
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:29:56
+FMA = 4.7394 SMA = 4.73323076923077
+No signal. Current price = 4.751
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:30:56
+FMA = 4.7410000000000005 SMA = 4.732769230769231
+No signal. Current price = 4.738
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:31:56
+FMA = 4.744200000000001 SMA = 4.733692307692308
+No signal. Current price = 4.743
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:32:57
+FMA = 4.7426 SMA = 4.73323076923077
+No signal. Current price = 4.724
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:33:57
+FMA = 4.7387999999999995 SMA = 4.733692307692308
+No signal. Current price = 4.733
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:34:57
+FMA = 4.7352 SMA = 4.734615384615385
+No signal. Current price = 4.733
+Cash = 0 Crypto = 209.77247004644266
+
+03/17/2022, 12:35:58
+FMA = 4.7326 SMA = 4.735307692307693
+Sold for a price of 4.73
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:36:58
+FMA = 4.7299999999999995 SMA = 4.735615384615385
+No signal. Current price = 4.73
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:37:58
+FMA = 4.7296000000000005 SMA = 4.735
+No signal. Current price = 4.722
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:38:59
+FMA = 4.7274 SMA = 4.734384615384616
+No signal. Current price = 4.722
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:39:59
+FMA = 4.7252 SMA = 4.733615384615385
+No signal. Current price = 4.722
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:40:59
+FMA = 4.722 SMA = 4.732230769230769
+No signal. Current price = 4.714
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:42:00
+FMA = 4.7186 SMA = 4.729230769230769
+No signal. Current price = 4.713
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:43:00
+FMA = 4.7148 SMA = 4.725538461538462
+No signal. Current price = 4.703
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:44:00
+FMA = 4.711 SMA = 4.7224615384615385
+No signal. Current price = 4.703
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:45:01
+FMA = 4.7096 SMA = 4.720307692307693
+No signal. Current price = 4.715
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:46:01
+FMA = 4.7097999999999995 SMA = 4.719615384615385
+No signal. Current price = 4.715
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:47:01
+FMA = 4.7102 SMA = 4.71823076923077
+No signal. Current price = 4.715
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:48:02
+FMA = 4.7118 SMA = 4.716538461538462
+No signal. Current price = 4.711
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:49:03
+FMA = 4.7134 SMA = 4.715076923076923
+No signal. Current price = 4.711
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:50:03
+FMA = 4.712400000000001 SMA = 4.7135384615384615
+No signal. Current price = 4.71
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:51:04
+FMA = 4.7126 SMA = 4.713076923076923
+No signal. Current price = 4.716
+Cash = 992.2237833196739 Crypto = 0
+
+03/17/2022, 12:52:04
+FMA = 4.7128 SMA = 4.712615384615384
+Bought for a price of 4.716
+Cash = 0 Crypto = 210.39520426625825
+
+03/17/2022, 12:53:05
+FMA = 4.711 SMA = 4.711076923076923
+Sold for a price of 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:54:05
+FMA = 4.7092 SMA = 4.710153846153846
+No signal. Current price = 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:55:06
+FMA = 4.7076 SMA = 4.709307692307693
+No signal. Current price = 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:56:07
+FMA = 4.7048000000000005 SMA = 4.7092307692307696
+No signal. Current price = 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:57:07
+FMA = 4.702 SMA = 4.709153846153846
+No signal. Current price = 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:58:08
+FMA = 4.702 SMA = 4.708153846153847
+No signal. Current price = 4.702
+Cash = 989.2782504599463 Crypto = 0
+
+03/17/2022, 12:59:08
+FMA = 4.7124 SMA = 4.710153846153846
+Bought for a price of 4.723
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:00:09
+FMA = 4.7166 SMA = 4.711076923076923
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:01:09
+FMA = 4.7208 SMA = 4.712
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:02:10
+FMA = 4.725 SMA = 4.713
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:03:11
+FMA = 4.7204 SMA = 4.712538461538461
+No signal. Current price = 4.718
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:04:11
+FMA = 4.7182 SMA = 4.712230769230769
+No signal. Current price = 4.715
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:05:11
+FMA = 4.7306 SMA = 4.718615384615385
+No signal. Current price = 4.75
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:06:12
+FMA = 4.7262 SMA = 4.718538461538461
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:07:13
+FMA = 4.725199999999999 SMA = 4.719153846153846
+No signal. Current price = 4.72
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:08:14
+FMA = 4.7262 SMA = 4.720538461538462
+No signal. Current price = 4.72
+Cash = 0 Crypto = 209.45971849670684
+
+03/17/2022, 13:09:14
+FMA = 4.7202 SMA = 4.721923076923077
+Sold for a price of 4.72
+Cash = 988.6498713044563 Crypto = 0
+
+03/17/2022, 13:10:15
+FMA = 4.7186 SMA = 4.723307692307692
+No signal. Current price = 4.72
+Cash = 988.6498713044563 Crypto = 0
+
+03/17/2022, 13:11:15
+FMA = 4.7244 SMA = 4.724
+Bought for a price of 4.731
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:12:16
+FMA = 4.7265999999999995 SMA = 4.724615384615384
+No signal. Current price = 4.731
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:13:16
+FMA = 4.731199999999999 SMA = 4.726153846153846
+No signal. Current price = 4.737
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:14:16
+FMA = 4.7346 SMA = 4.7272307692307685
+No signal. Current price = 4.737
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:15:16
+FMA = 4.7358 SMA = 4.728923076923077
+No signal. Current price = 4.737
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:16:17
+FMA = 4.737 SMA = 4.730615384615384
+No signal. Current price = 4.737
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:17:17
+FMA = 4.7358 SMA = 4.729153846153846
+No signal. Current price = 4.734
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:18:17
+FMA = 4.739199999999999 SMA = 4.731153846153846
+No signal. Current price = 4.744
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:19:18
+FMA = 4.74 SMA = 4.733307692307692
+No signal. Current price = 4.741
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:20:18
+FMA = 4.7398 SMA = 4.734538461538461
+No signal. Current price = 4.738
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:21:18
+FMA = 4.7398 SMA = 4.735615384615385
+No signal. Current price = 4.736
+Cash = 0 Crypto = 208.9727058348037
+
+03/17/2022, 13:22:18
+FMA = 4.735200000000001 SMA = 4.735692307692307
+Sold for a price of 4.723
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:23:19
+FMA = 4.731 SMA = 4.735076923076923
+No signal. Current price = 4.723
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:24:19
+FMA = 4.724200000000001 SMA = 4.733076923076923
+No signal. Current price = 4.714
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:25:19
+FMA = 4.7198 SMA = 4.731307692307693
+No signal. Current price = 4.714
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:26:20
+FMA = 4.715800000000001 SMA = 4.7295384615384615
+No signal. Current price = 4.714
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:27:20
+FMA = 4.7146 SMA = 4.728000000000001
+No signal. Current price = 4.713
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:28:21
+FMA = 4.7128 SMA = 4.725538461538462
+No signal. Current price = 4.709
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:29:21
+FMA = 4.7138 SMA = 4.724384615384616
+No signal. Current price = 4.714
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:30:21
+FMA = 4.713800000000001 SMA = 4.722076923076923
+No signal. Current price = 4.714
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:31:21
+FMA = 4.7138 SMA = 4.720076923076923
+No signal. Current price = 4.718
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:32:22
+FMA = 4.7156 SMA = 4.718461538461539
+No signal. Current price = 4.718
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:33:22
+FMA = 4.716200000000001 SMA = 4.717
+No signal. Current price = 4.718
+Cash = 986.9780896577778 Crypto = 0
+
+03/17/2022, 13:34:22
+FMA = 4.7170000000000005 SMA = 4.715769230769231
+Bought for a price of 4.718
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:35:23
+FMA = 4.7132000000000005 SMA = 4.713615384615385
+No signal. Current price = 4.71
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:36:23
+FMA = 4.7116 SMA = 4.713307692307692
+No signal. Current price = 4.71
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:37:23
+FMA = 4.7102 SMA = 4.713
+No signal. Current price = 4.71
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:38:23
+FMA = 4.7102 SMA = 4.713307692307692
+No signal. Current price = 4.714
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:39:24
+FMA = 4.7134 SMA = 4.713384615384616
+No signal. Current price = 4.718
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:40:24
+FMA = 4.7148 SMA = 4.7139999999999995
+No signal. Current price = 4.717
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:41:24
+FMA = 4.716199999999999 SMA = 4.714230769230769
+No signal. Current price = 4.717
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:42:25
+FMA = 4.7168 SMA = 4.7144615384615385
+No signal. Current price = 4.717
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:43:25
+FMA = 4.7176 SMA = 4.714846153846154
+No signal. Current price = 4.719
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:44:25
+FMA = 4.7177999999999995 SMA = 4.7149230769230766
+No signal. Current price = 4.719
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:45:26
+FMA = 4.718999999999999 SMA = 4.7153846153846155
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:46:26
+FMA = 4.7202 SMA = 4.715769230769231
+No signal. Current price = 4.723
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:47:26
+FMA = 4.7198 SMA = 4.716692307692307
+No signal. Current price = 4.719
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:48:27
+FMA = 4.719800000000001 SMA = 4.717384615384615
+No signal. Current price = 4.719
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:49:27
+FMA = 4.719600000000001 SMA = 4.718
+No signal. Current price = 4.719
+Cash = 0 Crypto = 209.19416906693044
+
+03/17/2022, 13:50:27
+FMA = 4.718 SMA = 4.718076923076922
+Sold for a price of 4.715
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:51:28
+FMA = 4.7172 SMA = 4.718076923076922
+No signal. Current price = 4.715
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:52:28
+FMA = 4.7164 SMA = 4.717846153846153
+No signal. Current price = 4.715
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:53:29
+FMA = 4.715 SMA = 4.717384615384615
+No signal. Current price = 4.713
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:54:29
+FMA = 4.7126 SMA = 4.716615384615385
+No signal. Current price = 4.714
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:55:29
+FMA = 4.711399999999999 SMA = 4.716
+No signal. Current price = 4.709
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:56:29
+FMA = 4.7086 SMA = 4.714615384615384
+No signal. Current price = 4.705
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:57:30
+FMA = 4.7082 SMA = 4.714
+No signal. Current price = 4.711
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:58:30
+FMA = 4.708800000000001 SMA = 4.712923076923077
+No signal. Current price = 4.71
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 13:59:30
+FMA = 4.71 SMA = 4.713
+No signal. Current price = 4.715
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 14:00:31
+FMA = 4.7116 SMA = 4.712538461538462
+No signal. Current price = 4.713
+Cash = 986.350507150577 Crypto = 0
+
+03/17/2022, 14:01:31
+FMA = 4.716200000000001 SMA = 4.713307692307692
+Bought for a price of 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:02:31
+FMA = 4.7198 SMA = 4.714
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:03:31
+FMA = 4.7219999999999995 SMA = 4.714846153846154
+No signal. Current price = 4.726
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:04:32
+FMA = 4.7223999999999995 SMA = 4.715
+No signal. Current price = 4.717
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:05:32
+FMA = 4.7242 SMA = 4.715692307692308
+No signal. Current price = 4.722
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:06:32
+FMA = 4.7254 SMA = 4.717846153846154
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:07:32
+FMA = 4.7254 SMA = 4.718923076923077
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:08:33
+FMA = 4.7258 SMA = 4.720692307692308
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:09:33
+FMA = 4.728 SMA = 4.7224615384615385
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:10:33
+FMA = 4.722799999999999 SMA = 4.721846153846153
+No signal. Current price = 4.715
+Cash = 0 Crypto = 208.61897359360765
+
+03/17/2022, 14:11:34
+FMA = 4.7202 SMA = 4.721846153846153
+Sold for a price of 4.715
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:12:34
+FMA = 4.717599999999999 SMA = 4.721846153846153
+No signal. Current price = 4.715
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:13:34
+FMA = 4.715 SMA = 4.7219999999999995
+No signal. Current price = 4.715
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:14:34
+FMA = 4.7186 SMA = 4.722384615384615
+No signal. Current price = 4.726
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:15:35
+FMA = 4.718400000000001 SMA = 4.7213076923076915
+No signal. Current price = 4.714
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:16:35
+FMA = 4.7182 SMA = 4.720384615384615
+No signal. Current price = 4.711
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:17:35
+FMA = 4.7185999999999995 SMA = 4.720384615384615
+No signal. Current price = 4.718
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:18:36
+FMA = 4.717599999999999 SMA = 4.719538461538462
+No signal. Current price = 4.717
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:19:36
+FMA = 4.7158 SMA = 4.718692307692308
+No signal. Current price = 4.717
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:20:36
+FMA = 4.7158 SMA = 4.717846153846154
+No signal. Current price = 4.717
+Cash = 983.6384604938601 Crypto = 0
+
+03/17/2022, 14:21:36
+FMA = 4.7172 SMA = 4.717
+Bought for a price of 4.717
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:22:37
+FMA = 4.7166 SMA = 4.717
+No signal. Current price = 4.717
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:23:37
+FMA = 4.7166 SMA = 4.717153846153845
+No signal. Current price = 4.717
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:24:37
+FMA = 4.7186 SMA = 4.718076923076923
+No signal. Current price = 4.722
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:25:38
+FMA = 4.7196 SMA = 4.718615384615385
+No signal. Current price = 4.722
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:26:38
+FMA = 4.7194 SMA = 4.718
+No signal. Current price = 4.714
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:27:38
+FMA = 4.722 SMA = 4.718307692307692
+No signal. Current price = 4.724
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:28:39
+FMA = 4.7223999999999995 SMA = 4.718846153846154
+No signal. Current price = 4.724
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:29:39
+FMA = 4.7228 SMA = 4.719923076923077
+No signal. Current price = 4.724
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:30:40
+FMA = 4.7232 SMA = 4.720384615384615
+No signal. Current price = 4.724
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:31:40
+FMA = 4.724000000000001 SMA = 4.720923076923077
+No signal. Current price = 4.724
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:32:40
+FMA = 4.722799999999999 SMA = 4.721
+No signal. Current price = 4.718
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:33:41
+FMA = 4.7216000000000005 SMA = 4.721076923076923
+No signal. Current price = 4.718
+Cash = 0 Crypto = 208.53051950262034
+
+03/17/2022, 14:34:41
+FMA = 4.7204 SMA = 4.7213076923076915
+Sold for a price of 4.718
+Cash = 983.8469910133628 Crypto = 0
+
+03/17/2022, 14:35:42
+FMA = 4.719200000000001 SMA = 4.721384615384616
+No signal. Current price = 4.718
+Cash = 983.8469910133628 Crypto = 0
+
+03/17/2022, 14:36:42
+FMA = 4.718999999999999 SMA = 4.721461538461539
+No signal. Current price = 4.723
+Cash = 983.8469910133628 Crypto = 0
+
+03/17/2022, 14:37:42
+FMA = 4.7184 SMA = 4.720923076923077
+No signal. Current price = 4.715
+Cash = 983.8469910133628 Crypto = 0
+
+03/17/2022, 14:38:43
+FMA = 4.7212000000000005 SMA = 4.721692307692307
+No signal. Current price = 4.727
+Cash = 983.8469910133628 Crypto = 0
+
+03/17/2022, 14:39:44
+FMA = 4.723599999999999 SMA = 4.7224615384615385
+Bought for a price of 4.73
+Cash = 0 Crypto = 208.0014780155101
+
+03/17/2022, 14:40:44
+FMA = 4.7256 SMA = 4.722769230769231
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.0014780155101
+
+03/17/2022, 14:41:45
+FMA = 4.7265999999999995 SMA = 4.723076923076923
+No signal. Current price = 4.728
+Cash = 0 Crypto = 208.0014780155101
+
+03/17/2022, 14:42:45
+FMA = 4.728 SMA = 4.723307692307692
+No signal. Current price = 4.727
+Cash = 0 Crypto = 208.0014780155101
+
+03/17/2022, 14:43:46
+FMA = 4.728 SMA = 4.723538461538461
+No signal. Current price = 4.727
+Cash = 0 Crypto = 208.0014780155101
+
+Sold all crypto for a price of 4.727
+Congratulations! You lost money xDBot interrupted
+Cash = 983.2229865793163 Crypto = 0
+Wallet value = 983.2229865793163

@@ -28,7 +28,8 @@ def get_data(asset):
 
 client = binance.Client()
 
-cash = 1000.0 # USDT
+starting_cash = 1000.0 # USDT
+cash = starting_cash
 crypto = 0.0
 symbol = 'ACMUSDT'
 
@@ -49,20 +50,20 @@ try:
         data['position'] = data['signal'].diff()
         data['position'] = data['position'].map({1: 'buy', -1: 'sell'})
 
-        if data.iloc[-1]['position'] == 'buy':
+        if data.iloc[-1]['position'] == 'buy' and cash != 0:
             crypto = cash/data.iloc[-1]['Close']
             cash = 0
             text = (datetime.fromtimestamp(time.time()).strftime('%m/%d/%Y, %H:%M:%S') + '\n' + 
-            'FMA = ' + str(data.iloc[-1]['FMA']) + ' SMA = ' + str(data.iloc[-1]['SMA']) + 
-            ' Bought for a price of ' + str(data.iloc[-1]['Close']) + '\n' + 
+            'FMA = ' + str(data.iloc[-1]['FMA']) + ' SMA = ' + str(data.iloc[-1]['SMA']) + '\n' +
+            'Bought for a price of ' + str(data.iloc[-1]['Close']) + '\n' + 
             'Cash = ' + str(cash) + ' Crypto = ' + str(crypto) + '\n\n') 
             print(text)
             hs.write(text)
-        elif data.iloc[-1]['position'] == 'sell':
+        elif data.iloc[-1]['position'] == 'sell' and crypto != 0:
             cash = crypto*data.iloc[-1]['Close']
             crypto = 0
             text = (datetime.fromtimestamp(time.time()).strftime('%m/%d/%Y, %H:%M:%S') + '\n' + 
-            'FMA = ' + str(data.iloc[-1]['FMA']) + ' SMA = ' + str(data.iloc[-1]['SMA']) + 
+            'FMA = ' + str(data.iloc[-1]['FMA']) + ' SMA = ' + str(data.iloc[-1]['SMA']) + '\n' +
             'Sold for a price of ' + str(data.iloc[-1]['Close']) + '\n' + 
             'Cash = ' + str(cash) + ' Crypto = ' + str(crypto) + '\n\n')
             print(text)
@@ -76,6 +77,25 @@ try:
             hs.write(text)
         time.sleep(60)
 except KeyboardInterrupt:
+    if cash == 0:
+        cash = crypto*data.iloc[-1]['Close']
+        crypto = 0
+        text = "Sold all crypto for a price of " + str(data.iloc[-1]['Close']) + '\n'
+        print(text)
+        hs.write(text)
+    if cash > starting_cash:
+        text = "You made a profit of " + str(cash - starting_cash) + '\n'
+        print(text)
+        hs.write(text)
+    elif cash == starting_cash:
+        text = "You made no profit or loss" + '\n'
+        print(text)
+        hs.write(text)
+    else:
+        text = "Congratulations! You lost money xD" + '\n'
+        print(text)
+        hs.write(text)
+
     text = ('Bot interrupted' + '\n' +  
     'Cash = ' + str(cash) + ' Crypto = ' + str(crypto) + '\n' + 
     'Wallet value = ' + str(cash + crypto*data.iloc[-1]['Close']))
